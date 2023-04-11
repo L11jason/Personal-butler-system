@@ -5,7 +5,7 @@
       <!-- <h3>{{ item }}</h3> -->
     </el-carousel-item>
     </el-carousel>
-    <h1 style="text-align: center;">同城交友，众多美女等你来撩</h1>
+    <h1 style="text-align: center;">哈哈</h1>
   </div>
 </template>
 
